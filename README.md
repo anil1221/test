@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails web application with Quora similar functionality
 
-Things you may want to cover:
+Versions Used:
 
-* Ruby version
+* Ruby version: 2.6.3
+* Rails version: 6.0.0
+* Postgresql version: 11.0
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
+To run this application:
+* Clone the application
+* Run command rails s
+* Visit browser: http://localhost:3000
 * ...
